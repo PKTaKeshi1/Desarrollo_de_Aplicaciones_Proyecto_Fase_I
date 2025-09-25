@@ -1,9 +1,9 @@
 # ColecTrack - Gestor de Colecciones Personales
 
 ## Integrantes:
-- Yoni Jesus Villajuan Ampuro
-- Nombre compañero 1
-- Nombre compañero 2
+- Herrera Ramos, Edwin Jose
+- Rodriguez Zea, Cristian Jesus
+- Villajuan Ampuero, Yoni Jesus
 
 # 📦 ColecTrack
 
@@ -36,6 +36,7 @@ Permite **agregar, buscar, filtrar y eliminar items**, además de mostrar estad�
 - [JavaScript (ES6+)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [Bootstrap 5](https://getbootstrap.com/) – para estilos rápidos.
 
+
 ## 🚀 Instalación y uso
 
 1. Clona este repositorio o descarga los archivos:
@@ -43,4 +44,5 @@ Permite **agregar, buscar, filtrar y eliminar items**, además de mostrar estad�
    ```bash
    git clone https://github.com/PKTaKeshi1/Desarrollo_de_Aplicaciones_Proyecto_Fase_I
    cd colec-track
+
 
