@@ -41,5 +41,6 @@ Permite **agregar, buscar, filtrar y eliminar items**, adem√°s de mostrar estad√
 1. Clona este repositorio o descarga los archivos:
 
    ```bash
-   git clone https://github.com/tuusuario/colec-track.git
+   git clone https://github.com/PKTaKeshi1/Desarrollo_de_Aplicaciones_Proyecto_Fase_I
    cd colec-track
+
